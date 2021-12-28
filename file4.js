@@ -1,3 +1,3 @@
 var abc = 2;
-var def = 2;
-var ghi = 2;
+var def = 3;
+var ghi = 4;
