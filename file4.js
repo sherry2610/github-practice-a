@@ -7,5 +7,6 @@ var ghi = 4;
 var xyz = 4;
 
 const sum = (a,b) => {
+    console.log("a,b",{a,b})
     return a+b;
 }
